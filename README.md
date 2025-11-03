@@ -1,7 +1,7 @@
 # 👩‍💻 Profil Kartı Uygulaması (Lab 6)
 
 **220404059:** 
-**Muhammed AKGÜMÜŞ:** 
+**Muhammed Burak AKGÜMÜŞ:** 
 
 ## Amaç
 Bu proje, React Native'de Expo kullanarak yeniden kullanılabilir bileşenler (ProfileCard), StyleSheet ile stil verme ve Flexbox ile düzenleme gibi temel kavramları uygulamayı amaçlamaktadır[cite: 3].
